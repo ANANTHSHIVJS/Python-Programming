@@ -1,0 +1,11 @@
+i=5
+print("1*5  = ",1*i)
+print("2*5  = ",2*i)
+print("3*5  = ",3*i)
+print("4*5  = ",4*i)
+print("5*5  = ",5*i)
+print("6*5  = ",6*i)
+print("7*5  = ",7*i)
+print("8*5  = ",8*i)
+print("9*5  = ",9*i)
+print("10*5 = ",10*i)
